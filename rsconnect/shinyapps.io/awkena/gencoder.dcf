@@ -1,0 +1,11 @@
+name: gencoder
+title:
+username:
+account: awkena
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5251479
+bundleId: 6448819
+url: https://awkena.shinyapps.io/gencoder/
+when: 1666910291.07987
+lastSyncTime: 1666910291.0799
